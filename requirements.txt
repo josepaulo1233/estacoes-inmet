@@ -1,0 +1,8 @@
+streamlit
+pyecharts
+pandas
+numpy 
+selenium
+webdriver-manager
+beautifulsoup4
+lxml
